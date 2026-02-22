@@ -1,0 +1,10 @@
+{
+  "name": "vintage-camera-collector-grid",
+  "version": "1.0.0",
+  "description": "Generate orthographic vintage camera shelf-grid backgrounds",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
